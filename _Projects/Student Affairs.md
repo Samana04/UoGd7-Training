@@ -1,4 +1,4 @@
-# Meeting With Student Affairs
+# Meeting with Student Affairs
 
 **Attendees:** PJ Mancuso, Saman Asif, Jessica Westlake
 
@@ -22,6 +22,7 @@ An accessibility report has been created by Saman. A second a11y report will be 
 * Recommend using btn style for Additional questions and Answers (see aoda-web.uoguelph.ca/studentaffairs for example)
 * Could use \<ul class="no-link-lines">\ if you do not want to see link lines on the teaser lists (see aoda-web.uoguelph.ca/studentaffairs for example)
 * Change Departments button to "More departments"
+* Use consistent fonts- proper copying and pasting from word documents
 
 ## Incompleteness
 
@@ -30,7 +31,7 @@ An accessibility report has been created by Saman. A second a11y report will be 
 * Missing video (Are we allowing embedded video?)
 * PDF's need to be uploaded
 * Proper Alt tags are missing for footer images (discuss about external links)
-* Question marks on contact us
+* Question marks on "contact us"
 
 ## Notes:
 * Remove all instances of style attribute (eg. \<p style="line-height:15.6pt"> or \<span style="font-size:10pt;font-family:Arial,sans-serif;">
